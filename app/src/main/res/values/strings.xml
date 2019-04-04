@@ -13,4 +13,7 @@
     <string name="all_mail">All Mail</string>
     <string name="trash">Trash</string>
     <string name="spam">Spam</string>
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+
 </resources>
