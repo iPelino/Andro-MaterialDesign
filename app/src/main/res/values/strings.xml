@@ -3,4 +3,6 @@
     <string name="item_1">item 1</string>
     <string name="item2">item2</string>
     <string name="item3">item3</string>
+    <string name="profile_image">profile image</string>
+    <string name="johndoe_gmail_com">johndoe@gmail.com</string>
 </resources>
