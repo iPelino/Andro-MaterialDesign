@@ -5,4 +5,12 @@
     <string name="item3">item3</string>
     <string name="profile_image">profile image</string>
     <string name="johndoe_gmail_com">johndoe@gmail.com</string>
+    <string name="inbox">inbox</string>
+    <string name="starred">Starred</string>
+    <string name="sent">Sent</string>
+    <string name="draft">Draft</string>
+    <string name="subheader">Subheader</string>
+    <string name="all_mail">All Mail</string>
+    <string name="trash">Trash</string>
+    <string name="spam">Spam</string>
 </resources>
