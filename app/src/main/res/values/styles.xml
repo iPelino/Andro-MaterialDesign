@@ -11,4 +11,13 @@
         <item name="android:background">@color/colorBackground</item>
         <item name="android:textColor">@color/colorItem</item>
     </style>
+
+    <style name="AppTheme.NoActionBar">
+
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+    </style>
 </resources>
