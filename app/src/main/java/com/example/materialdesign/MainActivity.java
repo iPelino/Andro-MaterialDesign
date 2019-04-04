@@ -19,6 +19,11 @@ public class MainActivity extends AppCompatActivity {
         //adding toolbar
         toolbar = findViewById(R.id.toolbar); // link toolbar object with the toolbar in layout file
         setSupportActionBar(toolbar);
+
+        //set back / quit button(arrow)
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
+
     }
 
     //adding menu
@@ -44,6 +49,15 @@ public class MainActivity extends AppCompatActivity {
 
 
         }else if (id==R.id.item3_id){
+
+        }else if (id==R.id.search_id){
+            //block for the search action
+
+            Toast.makeText(getApplicationContext(),"Search",Toast.LENGTH_SHORT).show(); //for testing purposes
+
+        }else if (id==android.R.id.home){ //for the back action
+
+            finish(); // close the application if back is pressed and we are on home activity
 
         }
 
