@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "345038894888",
+    "firebase_url": "https://fir-laptop-d036d.firebaseio.com",
+    "project_id": "fir-laptop-d036d",
+    "storage_bucket": "fir-laptop-d036d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345038894888:android:d45eb77bce84ae33",
+        "android_client_info": {
+          "package_name": "com.example.materialdesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345038894888-jrrihgvedn8km65np8dau3otf6iiipf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.materialdesign",
+            "certificate_hash": "371ae732330ae0cb420f7d9ed482d6da1625814e"
+          }
+        },
+        {
+          "client_id": "345038894888-n393r6knso8aoq7budsudt6b8ev108a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa66Y0_qdObIXUCzYeXYPVw58sge200RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345038894888-n393r6knso8aoq7budsudt6b8ev108a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
